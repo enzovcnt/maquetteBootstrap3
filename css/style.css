@@ -2,6 +2,9 @@ html, body {
     padding: 0;
     margin: 0;
 }
+.FESP{
+    word-spacing: 1vw;
+}
 .pricing{
     font-size: 4em;
 }
